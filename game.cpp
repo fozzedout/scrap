@@ -18,6 +18,8 @@
  * along with Scrap.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+#include <cstring>
+
 #include "game.h"
 #include "data.h"
 #include "rng.h"
