@@ -1,0 +1,7 @@
+# Build output
+*.o
+/scrap
+/scrap.exe
+
+# Savefile written by 'S' in-game
+scrap.sav
